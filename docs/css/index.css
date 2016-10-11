@@ -1,0 +1,33 @@
+.attribution {
+    position:absolute !important;
+    bottom:0 !important;
+    right:0 !important;
+    opacity: 0.4;
+    font-size:0.4em !important;
+}
+
+.legend {
+    margin:-35px !important;
+    font-size: medium !important;
+}
+
+.keywords {
+    color: yellow !important;
+}
+
+.text-muted {
+    opacity: 0.6;
+    // font-size: medium !important;
+}
+
+.reveal a {
+  color: #FFEAD0 !important;
+}
+
+.column1-3{
+  text-align: center;
+  float: left;
+  word-wrap: break-word!important;
+  width:33%;
+  z-index:-10;
+}
